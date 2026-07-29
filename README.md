@@ -1,6 +1,6 @@
-# Ahmed Olalekan
+# Ahmed Olalekan Emmanuel
 
-I design digital hardware systems with a focus on computer architecture, RTL design, FPGA implementation, and hardware verification. My engineering background spans software development, embedded systems, and PCB design, giving me a systems-level perspective on designing and implementing reliable hardware.
+I design digital hardware systems with a focus on computer architecture, RTL design, FPGA implementation, and hardware verification. My engineering background spans software engineering, embedded systems, and PCB design, giving me a systems-level perspective on the design and implementation of reliable hardware.
 
 I use GitHub to document and share engineering projects, explore open technologies, and contribute to the open-source engineering community through practical, hands-on system design.
 
