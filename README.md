@@ -10,6 +10,20 @@ My engineering journey has taken me through software engineering, embedded syste
 
 I enjoy designing practical digital systems, exploring modern hardware development workflows, and building engineering projects that deepen my understanding of how computing systems are designed and implemented.
 
+## Featured Projects
+
+### 🚀 ARM-Inspired RISC Processor
+A 32-bit ARM-inspired RISC processor designed in Verilog/System Verilog HDL and implemented on the Lattice iCE40 FPGA using a fully open-source FPGA toolchain. The project explores processor architecture, RTL design, hardware verification, and FPGA implementation.
+
+### ⚡ Embedded Systems
+A collection of embedded systems projects exploring microcontroller programming, hardware interfacing, and real-world system development.
+
+### 🔌 PCB Design
+PCB design projects covering schematic capture and PCB layout for embedded and digital systems.
+
+### 💻 Software Engineering
+Projects developed during the ALX Software Engineering program, covering software design, systems programming, and problem-solving.
+
 
 
 <!--
