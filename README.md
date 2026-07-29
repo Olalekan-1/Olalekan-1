@@ -34,6 +34,14 @@ Projects developed during the ALX Software Engineering program, covering softwar
 - Hardware Verification
 - Open Hardware
 
+## Technologies & Tools
+
+| Category | Technologies |
+| :-------- | :----------- |
+| **Digital Hardware** | Verilog/SystemVerilog HDL, FPGA Design, PCB Design |
+| **Software Development** | C, Python, Bash |
+| **EDA & FPGA Tools** | Yosys, NextPNR, Icarus Verilog, GTKWave, IceStorm Toolchain |
+| **Development Environment** | Linux, Git, Visual Studio Code |
 
 
 <!--
