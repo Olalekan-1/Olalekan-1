@@ -13,7 +13,7 @@ I enjoy designing practical digital systems, exploring modern hardware developme
 ## Featured Projects
 
 ###  ARM-Inspired RISC Processor
-A 32-bit ARM-inspired RISC processor designed in Verilog/System Verilog HDL and implemented on the Lattice iCE40 FPGA using a fully open-source FPGA toolchain. The project explores processor architecture, RTL design, hardware verification, and FPGA implementation.
+A 32-bit ARM-inspired RISC processor designed in Verilog/SystemVerilog HDL and implemented on the Lattice iCE40 FPGA using a fully open-source FPGA toolchain. The project explores processor architecture, RTL design, hardware verification, and FPGA implementation.
 
 ###  Embedded Systems
 A collection of embedded systems projects exploring microcontroller programming, hardware interfacing, and real-world system development.
@@ -40,7 +40,7 @@ Projects developed during the ALX Software Engineering program, covering softwar
 | :-------- | :----------- |
 | **Digital Hardware** | Verilog/SystemVerilog HDL, FPGA Design, PCB Design |
 | **Software Development** | C, Python, Bash |
-| **EDA & FPGA Tools** | Yosys, NextPNR, Icarus Verilog, GTKWave, IceStorm Toolchain |
+| **EDA & FPGA Tools** | Altium Designer, Yosys, NextPNR, Icarus Verilog, GTKWave, IceStorm Toolchain |
 | **Development Environment** | Linux, Git, Visual Studio Code |
 
 
