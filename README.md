@@ -24,6 +24,16 @@ PCB design projects covering schematic capture and PCB layout for embedded and d
 ###  Software Engineering
 Projects developed during the ALX Software Engineering program, covering software design, systems programming, and problem-solving.
 
+## Engineering Interests
+
+- Computer Architecture
+- Digital Hardware Design
+- FPGA Development
+- RTL Design
+- Embedded Systems
+- Hardware Verification
+- Open Hardware
+
 
 
 <!--
