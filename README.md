@@ -12,16 +12,16 @@ I enjoy designing practical digital systems, exploring modern hardware developme
 
 ## Featured Projects
 
-### 🚀 ARM-Inspired RISC Processor
+###  ARM-Inspired RISC Processor
 A 32-bit ARM-inspired RISC processor designed in Verilog/System Verilog HDL and implemented on the Lattice iCE40 FPGA using a fully open-source FPGA toolchain. The project explores processor architecture, RTL design, hardware verification, and FPGA implementation.
 
-### ⚡ Embedded Systems
+###  Embedded Systems
 A collection of embedded systems projects exploring microcontroller programming, hardware interfacing, and real-world system development.
 
-### 🔌 PCB Design
+###  PCB Design
 PCB design projects covering schematic capture and PCB layout for embedded and digital systems.
 
-### 💻 Software Engineering
+###  Software Engineering
 Projects developed during the ALX Software Engineering program, covering software design, systems programming, and problem-solving.
 
 
